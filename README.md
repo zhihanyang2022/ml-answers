@@ -1,2 +1,2 @@
 # probml-answers
-Answers to Machine Learning: A Probabilistic Perspective
+Answers to exercises in Machine Learning: A Probabilistic Perspective
