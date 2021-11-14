@@ -1,2 +1,2 @@
 # ml-answers
-Answers to machine learning books.
+Answers to machine-learning books.
