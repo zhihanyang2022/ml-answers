@@ -1,2 +1,2 @@
-# probml-answers
-Answers to exercises in Machine Learning: A Probabilistic Perspective
+# ml-answers
+Answers to machine learning books.
